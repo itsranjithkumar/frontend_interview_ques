@@ -19,3 +19,41 @@ Modularity: Components can be divided into smaller units, making it easier to ma
 4. What are Props in React? 
 
 Answer: Props (Properties) are a way to pass data from a parent component to a child component. They are used to configure and customize the behavior of a component.
+
+
+
+________________
+
+
+5. What are the Key Features of React?
+
+virtual DOM
+  - Virtual DOM is lightweight representation of the actual DOM. It is used to improve performance by only updating the necessary parts of the DOM when component changes.
+
+ecosystem 
+
+- react ecosystem is a collection of libraries and tools that are used to build and maintain React applications. 
+
+
+
+ Reusability 
+
+-  once you create a component you can re-use it in different parts of your application or even in multiple projects.
+
+jsk
+
+-  jsk is a syntax extension for javaScript used in react, allowing developers to write html -like code within javascript
+
+
+
+
+
+6. what is spa(single page application)?
+
+Answer: Single-Page Applications (SPAs) are web applications that use a single HTML page to display different content based on the user's interaction. They are created using frameworks like React, Angular, or Vue.js.
+
+
+7. what is DOM Document Object Model?
+
+
+
